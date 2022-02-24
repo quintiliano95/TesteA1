@@ -9,3 +9,6 @@ create table itens (
 	item_dim_3 varchar (10),
 	item_class varchar(20)
 );
+
+
+SELECT * FROM itens LIMIT 0, 16000;
