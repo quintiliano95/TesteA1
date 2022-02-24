@@ -23,3 +23,8 @@
 - Execute o comando "create database". Em seguida, execute o comando "create table". 
 - Volte para o arquivo "testeA1.php" e execute-o. 
 - Volte para o gerenciador de banco de dados e execute o comanda "select * from".
+
+
+## Dúvidas
+
+Em caso de dúvidas, bugs, problemas em geral, enviar um e-mail para: alexandretrabalhobg@gmail.com
