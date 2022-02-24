@@ -6,7 +6,7 @@
 
 - Servidor local [(recomendado o XAMPP)](https://www.apachefriends.org/pt_br/index.html)
 
-- Editor de código (recomendado VS Code)
+- Editor de código [(recomendado VS Code)](https://code.visualstudio.com/)
 
 - Gerenciador de Banco de Dados [(recomendado MySQL Workbench)](https://dev.mysql.com/downloads/workbench/)
 
