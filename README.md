@@ -8,7 +8,7 @@
 
 - Editor de código (recomendado VS Code)
 
-- Gerenciador de Banco de Dados
+- Gerenciador de Banco de Dados [(recomendado MySQL Workbench)](https://dev.mysql.com/downloads/workbench/)
 
 ## Desenvolvimento 
 
@@ -17,3 +17,9 @@
 - Abra a pasta com respositório clonado no VS Code. 
 - No arquivo "conexao.php", verificar as variáveis "$localhost", "$user" e "$senha". Caso esteja igual, vá para o próximo passo. 
 - No arquivo "testeA1.php", na variável "$bancoA1", colocar o diretório de onde está o arquivo .csv que foi clonado.
+- Abra o Gerenciador de Banco de Dados.
+- Entre no ambiente que foi indicado no arquivo "conexao.php".
+- No canto superior esquerdo, clique em "File" > "Open SQL Script" > Selecione o arquivo "a1.sql".
+- Execute o comando "create database". Em seguida, execute o comando "create table". 
+- Volte para o arquivo "testeA1.php" e execute-o. 
+- Volte para o gerenciador de banco de dados e execute o comanda "select * from".
